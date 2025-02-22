@@ -5,7 +5,8 @@
 
 ## 1. 초기설정
 
-![image](https://github.com/user-attachments/assets/8da75ad7-c394-4f8f-9af7-55b0ba1664c0)
+![image](https://github.com/user-attachments/assets/e6ebe1be-61f9-4d42-88b5-3bb43e62f262)
+
 
 위 사진처럼 교과목명, 교수명 사이에 공백을 넣고, 과목마다 줄바꿈을 해주세요
 
