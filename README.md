@@ -5,7 +5,8 @@
 
 ## 1. 초기설정
 
-![image](https://github.com/user-attachments/assets/e6ebe1be-61f9-4d42-88b5-3bb43e62f262)
+![image](https://github.com/user-attachments/assets/4e17fd7f-0377-41d3-9f25-c5a2cf9036ca)
+
 
 
 위 사진처럼 교과목명, 교수명 사이에 공백을 넣고, 과목마다 줄바꿈을 해주세요
@@ -14,7 +15,7 @@
 
 ## 2. 사용
 
-![image](https://github.com/user-attachments/assets/8f890215-77f7-45db-9be4-2b629525705a)
+![image](https://github.com/user-attachments/assets/494c7fdc-9ba4-4d3d-8915-7e8b5381f78d)
 
 
 숫자키를 누르면 포커싱돼있는 입력칸의 문자를 지우고 번호에 해당하는 교과목명이 자동으로 복사 + 붙여넣기 됩니다
