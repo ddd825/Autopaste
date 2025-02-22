@@ -13,7 +13,7 @@
 
 ## 2. 사용
 
-![image](https://github.com/user-attachments/assets/1ed999f5-d2d7-479f-bbfc-e2efb76042ac)
+![image](https://github.com/user-attachments/assets/8f890215-77f7-45db-9be4-2b629525705a)
 
 
 숫자키를 누르면 포커싱돼있는 입력칸의 문자를 지우고 번호에 해당하는 교과목명이 자동으로 복사 + 붙여넣기 됩니다
